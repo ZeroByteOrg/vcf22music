@@ -1,0 +1,10 @@
+*
+!*.txt
+!*.inf
+!.gitignore
+!*.ZSM
+!*.zsm
+!*.fur
+!*.vgm
+!*.dmp
+
