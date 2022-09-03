@@ -1,0 +1,12 @@
+All contributions remain the sole property of their respective creators.
+
+No license is hereby granted unless specified by the creator for their
+individual files in the accompanying .txt file of the same name.
+
+By contributing to this project, creators agree to the use of their work
+in the upcoming VCF Midwest '22 expo on the Commander X16 as examples of
+its musical capabilities, and for the inclusion of the ZSM export version
+with the Calliope ZSM jukebox application for Commander X16.
+
+Contributions in native tracker formats such as .dmp or .fur will not be
+included with the expo demo or with Calliope player.
