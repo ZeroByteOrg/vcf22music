@@ -1,0 +1,58 @@
+***********************************************
+* VGM music package                           *
+* https://vgmrips.net/                        *
+***********************************************
+
+Game name:           Zero Wing
+System:              Sega Mega Drive
+Music hardware:      YM2612, SEGA VDP PSG
+Complete music dump: Yes
+
+Music author:        Toshiaki Tomizawa,
+                     Tatsuya Uemura,
+                     Masahiro Yuge
+Game developer:      Toaplan
+Game publisher:      Toaplan (J) / Sega (E)
+Game release date:   1991-05-31 (J) / 1992 (E)
+
+Package created by:  DJ Squarewave
+Package version:     1.02
+
+Song list, in approximate game order:
+Song name                           Length:
+                                    Total  Loop
+Introduction (Part 1)               1:01   0:12
+Introduction (Part 2)               0:30   -
+Open Your Eyes (Stage 1: Natols)    1:13   0:51
+Open Your Eyes (Stage 1: Natols)
+                         (No Intro) 1:07   0:51
+New Day for Me (Stage 2: Legrous)   1:39   1:26
+Babylonian Nights
+                 (Stage 3: Pleades) 1:26   1:26
+You Get (Stage 4: Aquese)           1:04   1:04
+Old Sense
+       (Stage 5: Submarine Tunnel) 1:18   1:17
+New Say (Stage 6: Barricade Zone)   0:51   0:51
+Same One (Stage 7: Bellon)          1:16   1:12
+Hit Man (Stage 8: Gerbarra)         1:16   1:10
+Ending 1 (Dancing Raisins)          0:26   -
+Ending 2                            0:23   0:23
+Ending 3                            0:34   0:33
+Game Set (Game Over)                0:03   -
+Dullard (Continue)                  0:08   -
+Continue Jingle                     0:01   -
+Extra Life                          0:01   -
+
+Notes:
+The arcade version was composed by all three
+listed -- the MD version was converted soley by
+Uemura. Individual track credits and names
+taken from the OST and the GYM set by Fester
+Blatz. -DJSW
+
+Release notes from project2612; names/dates lost:
+1.01 ID'd the unknown. Thanks Quaze!
+
+Package history:
+1.02 2022-01-03 andlabs: Fixed txt file for
+ vgmrips.
